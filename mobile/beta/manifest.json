@@ -1,0 +1,9 @@
+{
+  "version": "4.3.1.1",
+  "minNative": 8,
+  "url": "https://diary-spo.github.io/mobile/beta/bundle.zip",
+  "checksum": "b04bdf1fecf33d75dfb81fc0482190732ab784251574bd9a27066df1f52fde91",
+  "notes": "Canary / beta интерфейс",
+  "channel": "beta",
+  "builtAt": "2026-11-02T11:39:45.255Z"
+}

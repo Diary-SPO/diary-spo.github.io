@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://diary-spo.github.io/sitemap-index.xml
+Sitemap: https://diary-spo.ru/sitemap-index.xml
